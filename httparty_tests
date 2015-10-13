@@ -1,0 +1,4 @@
+httparty http://cep.correiocontrol.com.br/06455906.json
+httparty http://cep.correiocontrol.com.br/37136000.json
+httparty http://cep.correiocontrol.com.br/06405906.json
+httparty http://cep.correiocontrol.com.br/06455906.jso
